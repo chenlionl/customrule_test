@@ -1,4 +1,4 @@
-package org.example.detekt
+package com.github.chenlionl.customrule_test
 
 import io.gitlab.arturbosch.detekt.api.Config
 import io.gitlab.arturbosch.detekt.test.compileAndLint
